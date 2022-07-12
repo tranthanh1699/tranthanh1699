@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MrTran
 - 👀 I’m interested in nothing
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning IoT system
+- 💞️ I’m looking to collaborate on IoT system
 - 📫 How to reach me ...
 
 <!---
